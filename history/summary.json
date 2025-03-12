@@ -22,17 +22,17 @@
     "url": "https://n8n.navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.navega.tech.ico",
     "slug": "navega-n8n",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 106,
-    "timeWeek": 93,
-    "timeMonth": 94,
-    "timeYear": 88,
+    "time": 89,
+    "timeDay": 109,
+    "timeWeek": 96,
+    "timeMonth": 95,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   }
 ]

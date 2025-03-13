@@ -4,7 +4,7 @@ repo: upptime-navega # The name of this repository
 
 sites:
   - name: Navega Home
-    url: https://www.navega.tech
+    url: https://navega.tech
   - name: Navega n8n
     url: https://n8n.navega.tech
 

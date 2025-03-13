@@ -5,8 +5,12 @@ repo: upptime-navega # The name of this repository
 sites:
   - name: Navega Home
     url: https://navega.tech
+    headers:
+      User-Agent: "UpptimeMonitor"
   - name: Navega n8n
     url: https://n8n.navega.tech
+    headers:
+      User-Agent: "UpptimeMonitor"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

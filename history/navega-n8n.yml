@@ -1,7 +1,7 @@
 url: https://n8n.navega.tech
-status: up
-code: 200
-responseTime: 35
-lastUpdated: 2025-04-02T06:47:32.484Z
+status: down
+code: 403
+responseTime: 48
+lastUpdated: 2025-04-02T08:49:31.060Z
 startTime: 2025-02-05T12:36:08.549Z
 generator: Upptime <https://github.com/upptime/upptime>

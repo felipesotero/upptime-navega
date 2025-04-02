@@ -1,7 +1,7 @@
 url: https://project.navega.tech
-status: up
-code: 200
-responseTime: 204
-lastUpdated: 2025-04-02T13:15:19.596Z
+status: down
+code: 403
+responseTime: 63
+lastUpdated: 2025-04-02T13:41:03.832Z
 startTime: 2025-03-13T14:18:37.333Z
 generator: Upptime <https://github.com/upptime/upptime>

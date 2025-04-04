@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 723,
-    "timeWeek": 548,
+    "timeWeek": 552,
     "timeMonth": 863,
     "timeYear": 718,
     "dailyMinutesDown": {}
@@ -40,17 +40,17 @@
     "url": "https://project.navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/project.navega.tech.ico",
     "slug": "navega-project",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 185,
-    "timeWeek": 274,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 301,
+    "timeDay": 191,
+    "timeWeek": 276,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   }
 ]

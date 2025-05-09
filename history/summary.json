@@ -4,17 +4,17 @@
     "url": "https://navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/navega.tech.ico",
     "slug": "navega-home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1051,
-    "timeDay": 2828,
-    "timeWeek": 1933,
-    "timeMonth": 1882,
-    "timeYear": 1051,
+    "time": 1055,
+    "timeDay": 2537,
+    "timeWeek": 1972,
+    "timeMonth": 1889,
+    "timeYear": 1055,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 173,
     "timeDay": 193,
     "timeWeek": 2309,
-    "timeMonth": 478,
+    "timeMonth": 493,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 322,
     "timeDay": 404,
     "timeWeek": 356,
-    "timeMonth": 386,
+    "timeMonth": 390,
     "timeYear": 322,
     "dailyMinutesDown": {}
   }

@@ -40,17 +40,17 @@
     "url": "https://project.navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/project.navega.tech.ico",
     "slug": "navega-project",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 96,
-    "timeWeek": 484,
-    "timeMonth": 431,
-    "timeYear": 337,
+    "time": 338,
+    "timeDay": 468,
+    "timeWeek": 493,
+    "timeMonth": 437,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   }
 ]

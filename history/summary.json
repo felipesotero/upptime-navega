@@ -58,17 +58,17 @@
     "url": "https://ecco-safety.navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/ecco-safety.navega.tech.ico",
     "slug": "ecco-safety",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 234,
-    "timeWeek": 197,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 175,
+    "timeDay": 137,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]

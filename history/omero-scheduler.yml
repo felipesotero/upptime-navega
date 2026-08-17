@@ -1,7 +1,7 @@
 url: https://omero-scheduler.navega.tech
-status: down
-code: 503
-responseTime: 35437
-lastUpdated: 2026-08-17T15:15:10.741Z
+status: up
+code: 200
+responseTime: 131
+lastUpdated: 2026-08-17T16:02:33.197Z
 startTime: 2026-07-08T13:28:20.071Z
 generator: Upptime <https://github.com/upptime/upptime>

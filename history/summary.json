@@ -22,17 +22,17 @@
     "url": "https://omero-scheduler.navega.tech",
     "icon": "https://icons.duckduckgo.com/ip3/omero-scheduler.navega.tech.ico",
     "slug": "omero-scheduler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1666,
-    "timeDay": 186,
-    "timeWeek": 4040,
-    "timeMonth": 2145,
-    "timeYear": 1666,
+    "time": 2377,
+    "timeDay": 17634,
+    "timeWeek": 7144,
+    "timeMonth": 3060,
+    "timeYear": 2377,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 227,
     "timeDay": 335,
     "timeWeek": 220,
-    "timeMonth": 250,
+    "timeMonth": 249,
     "timeYear": 227,
     "dailyMinutesDown": {}
   }

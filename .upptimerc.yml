@@ -19,6 +19,16 @@ sites:
     url: https://ecco-safety.navega.tech
     headers:
       - "user-agent: UpptimeMonitor"
+  # Atlas responde 200 mesmo com o banco fora, então exige o texto que o /health só mostra com o Postgres de pé.
+  - name: Atlas
+    url: https://atlas.navega.tech/health
+    __dangerous__body_down_if_text_missing: "Postgres: OK"
+    headers:
+      - "user-agent: UpptimeMonitor"
+  - name: Compass
+    url: https://compass.navega.tech/health
+    headers:
+      - "user-agent: UpptimeMonitor"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
